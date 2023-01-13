@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/input.css -o dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoMoya1/tailwind-css-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoMoya1/tailwind-css-practice/issues"
+  },
+  "homepage": "https://github.com/MarcoMoya1/tailwind-css-practice#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
